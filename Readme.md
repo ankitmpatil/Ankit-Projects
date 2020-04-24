@@ -2,8 +2,7 @@ Selected Projects and Outcomes
 ==============================
 ## Project - Loan Approval Analysis
 
-[Link to Project - Loan Approval Analysis](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Loan%20Approval%20Analysis.ipynb)
-
+[Link to Project - Loan Approval Analysis]
 Why solve this project ?
 After completing this project, you will have better grip on working with pandas. In this project you will apply following concepts.
 
@@ -13,7 +12,7 @@ After completing this project, you will have better grip on working with pandas.
 ==============================
 ## Project - Visualization for company stakeholders
 
-[Link to Project - Visualization for company stakeholders](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Visualization%20for%20company%20stakeholders.ipynb)
+[Link to Project - Visualization for company stakeholders]
 
 Why solve this project?
 After completing this project, you will have a better understanding of data visualization techniques. In this project, you will be applying the following concepts:
@@ -27,7 +26,7 @@ After completing this project, you will have a better understanding of data visu
 ==============================
 ## Project - Olympic Hero
 
-[Link to Project - Olympic Hero](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Olympic%20Hero.ipynb)
+[Link to Project - Olympic Hero]
 
 Why solve this project?
 After completing this project, you will have a better understanding of data handling with python(pandas). In this project, you will be applying the following concepts :
@@ -41,7 +40,7 @@ After completing this project, you will have a better understanding of data hand
 ==============================
 ## Project - Feature Selection - Forest Type Cover Prediction
 
-[Link to Project - Feature Selection - Forest Type Cover Prediction](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Feature%20Selection%20-%20Forest%20Type%20Cover%20Prediction.ipynb)
+[Link to Project - Feature Selection - Forest Type Cover Prediction]
 
 Why solve this project ?
 After completing this project, you will have the better understanding of how feature selection effects the performance of a machine learning model. In this project, you will apply the following concepts.
@@ -54,7 +53,7 @@ After completing this project, you will have the better understanding of how fea
 ==============================
 ## Project - LogisticRegression - Insurance claim prediction
 
-[Link to Project - LogisticRegression - Insurance claim prediction](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20LogisticRegression%20-%20Insurance%20claim%20prediction.ipynb)
+[Link to Project - LogisticRegression - Insurance claim prediction]
 
 Why solve this project?
 After completing this project, you will have the better understanding of how to build a logistic regression model. In this project, you will apply the following concepts.
