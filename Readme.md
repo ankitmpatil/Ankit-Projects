@@ -3,6 +3,7 @@ Selected Projects and Outcomes
 ## Project - Loan Approval Analysis
 
 [Link to Project - Loan Approval Analysis]
+
 Why solve this project ?
 After completing this project, you will have better grip on working with pandas. In this project you will apply following concepts.
 
